@@ -16,12 +16,12 @@
       "info": "Informação adicional do código VIP2026"
     },
 
-    "DEMO001": {
+    "Teste": {
       "name": "Servidor Backup",
       "type": "xtream",
-      "server": "http://backup.com:8080",
-      "username": "teste",
-      "password": "123456",
+      "server": "http://pvsrvs.xyz",
+      "username": "sPXDP3",
+      "password": "PhFsF71309",
       "info": "Informação adicional do código DEMO001"
     }
   }
