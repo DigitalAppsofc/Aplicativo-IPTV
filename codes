@@ -1,29 +1,28 @@
 {
-"codes": {
-"TESTE123": {
-"name": "Servidor Principal",
-"type": "xtream",
-"server": ""http://servidor.com:8080" (http://servidor.com:8080)",
-"username": "usuario",
-"password": "senha",
-"info": "Informação adicional do código TESTE123"
-},
+  "codes": {
+    "TESTE123": {
+      "name": "Servidor Principal",
+      "type": "xtream",
+      "server": "http://servidor.com:8080",
+      "username": "usuario",
+      "password": "senha",
+      "info": "Informação adicional do código TESTE123"
+    },
 
-"VIP2026": {
-  "name": "Lista Premium",
-  "type": "m3u",
-  "url": "http://pvsrvs.xyz/get.php?username=sPXDP3&password=PhFsF71309&type=m3u_plus",
-  "info": "Informação adicional do código VIP2026"
-},
+    "VIP2026": {
+      "name": "Lista Premium",
+      "type": "m3u",
+      "url": "http://pvsrvs.xyz/get.php?username=sPXDP3&password=PhFsF71309&type=m3u_plus",
+      "info": "Informação adicional do código VIP2026"
+    },
 
-"DEMO001": {
-  "name": "Servidor Backup",
-  "type": "xtream",
-  "server": "http://backup.com:8080",
-  "username": "teste",
-  "password": "123456",
-  "info": "Informação adicional do código DEMO001"
-}
-
-}
+    "DEMO001": {
+      "name": "Servidor Backup",
+      "type": "xtream",
+      "server": "http://backup.com:8080",
+      "username": "teste",
+      "password": "123456",
+      "info": "Informação adicional do código DEMO001"
+    }
+  }
 }
