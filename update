@@ -1,0 +1,16 @@
+{
+  "version": "1.1.0",
+  "versionCode": 12,
+  "releaseDate": "2026-06-14",
+  "forceUpdate": false,
+  "downloadUrl": "https://seusite.com/app.apk",
+  "changelog": [
+    "Correção do sistema de séries",
+    "Melhor organização de temporadas e episódios",
+    "Adicionado suporte completo ao Xtream Series Info",
+    "Melhoria no carregamento de capas",
+    "Correção de bugs no ExoPlayer",
+    "Melhoria no desempenho geral",
+    "Correção de falhas ao abrir séries"
+  ]
+}
