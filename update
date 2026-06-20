@@ -1,16 +1,13 @@
 {
-  "version": "1.1",
-  "versionCode": 2,
-  "releaseDate": "2026-06-16",
+  "version": "1.2",
+  "versionCode": 3,
+  "releaseDate": "2026-06-20",
   "forceUpdate": true,
-  "downloadUrl": "https://www.mediafire.com/file/aqrdq8zelnhtnk8/Prime+Player_v1.1.apk/file",
+  "downloadUrl": "https://www.mediafire.com/file/6gcbtc93w4ttlkh/Prime+Player_v1.2.apk/file",
   "changelog": [
     "Correções de bugs",
-    "Melhorias no Design",
-    "Suporte a listas EPG",
-    "Opção para sincronizar Listas",
-    "Melhorias no Player",
-    "Melhoria no desempenho geral",
-    "Melhorias no miniPlayer"
+    "Melhorias no Player de vídeo",
+    "Suporte a Android TV e TV BOX (beta)",
+    "Melhoria no desempenho geral"
   ]
 }
