@@ -9,7 +9,7 @@
       "info": "Informação adicional do código TESTE123"
     },
 
-    "LISTA02": {
+    "02026": {
       "name": "Lista Grátis",
       "type": "xtream",
       "server": "http://ka23.in",
@@ -18,12 +18,10 @@
       "info": "Servidor grátis."
     },
 
-   "LISTA03": {
+   "01026": {
       "name": "Lista Grátis",
-      "type": "xtream",
-      "server": "http://iptvperfeito.ddns.net:25461",
-      "username": "211967455",
-      "password": "211967455",
+      "type": "m3u",
+      "url": "http://strmng.pro:80/get.php?username=Qwy9vmhS&password=7Ds8mM&type=m3u_plus",
       "info": "Servidor grátis."
     },
 
