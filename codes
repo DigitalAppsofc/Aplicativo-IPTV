@@ -2,7 +2,7 @@
   "codes": {
     "010": {
       "name": "Servidor Premium",
-      "premium": "true"
+      "premium": "true",
       "type": "xtream",
       "server": "http://iptvperfeito.ddns.net:25461",
       "username": "211967455",
