@@ -10,8 +10,91 @@
       "info": "Servidor para testes!"
     },
 
+    "011": {
+    "name": "Servidor Premium",
+    "premium": "true",
+    "type": "xtream",
+    "server": "http://91.218.50.136:80",
+    "username": "RenanLR2859428X",
+    "password": "LinharesR4759J",
+    "info": "Servidor para testes."
+  },
+  "04026": {
+    "name": "Lista Grátis",
+    "premium": "false",
+    "type": "xtream",
+    "server": "http://91.218.50.136:80",
+    "username": "RB110824",
+    "password": "RB8855338855",
+    "info": "Servidor grátis."
+  },
+  "05026": {
+    "name": "Lista Grátis",
+    "premium": "false",
+    "type": "xtream",
+    "server": "http://91.218.50.136:80",
+    "username": "Sheyla",
+    "password": "Sz10",
+    "info": "Servidor grátis."
+  },
+  "06026": {
+    "name": "Lista Grátis",
+    "premium": "false",
+    "type": "xtream",
+    "server": "http://91.218.50.136:80",
+    "username": "27998928111",
+    "password": "235689235689",
+    "info": "Servidor grátis."
+  },
+  "07026": {
+    "name": "Lista Grátis",
+    "premium": "false",
+    "type": "xtream",
+    "server": "http://91.218.50.136:80",
+    "username": "leilabraz",
+    "password": "mesalva123",
+    "info": "Servidor grátis."
+  },
+  "08026": {
+    "name": "Lista Grátis",
+    "premium": "false",
+    "type": "xtream",
+    "server": "http://91.218.50.136:80",
+    "username": "21965720880",
+    "password": "h4080907080",
+    "info": "Servidor grátis."
+  },
+  "09026": {
+    "name": "Lista Grátis",
+    "premium": "false",
+    "type": "xtream",
+    "server": "http://91.218.50.136:80",
+    "username": "fiorini32s",
+    "password": "na67va56332",
+    "info": "Servidor grátis."
+  },
+  "10026": {
+    "name": "Lista Grátis",
+    "premium": "false",
+    "type": "xtream",
+    "server": "http://91.218.50.136:80",
+    "username": "Wagner4499",
+    "password": "Oi4701",
+    "info": "Servidor grátis."
+  },
+  "11026": {
+    "name": "Lista Grátis",
+    "premium": "false",
+    "type": "xtream",
+    "server": "http://91.218.50.136:80",
+    "username": "eduardoaugusto",
+    "password": "12442493861",
+    "info": "Servidor grátis."
+  },
+
     "02026": {
       "name": "Lista Grátis",
+      "premium": "false",
       "type": "xtream",
       "server": "http://ka23.in",
       "username": "90061473561",
@@ -21,13 +104,15 @@
 
    "01026": {
       "name": "Lista Grátis",
+      "premium": "false",
       "type": "m3u",
       "url": "http://strmng.pro:80/get.php?username=Qwy9vmhS&password=7Ds8mM&type=m3u_plus",
       "info": "Servidor grátis."
     },
 
-    "LISTA01": {
+    "LIST1": {
       "name": "Servidor Grátis",
+      "premium": "false",
       "type": "xtream",
       "server": "http://pvsrvs.xyz",
       "username": "sPXDP3",
