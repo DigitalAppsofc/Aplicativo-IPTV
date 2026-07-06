@@ -1,15 +1,11 @@
 {
-  "version": "1.4",
-  "versionCode": 5,
-  "releaseDate": "2026-07-03",
+  "version": "1.5",
+  "versionCode": 6,
+  "releaseDate": "2026-07-06",
   "forceUpdate": true,
-  "downloadUrl": "https://www.mediafire.com/file/92bv6iul8dwy9d5/Prime+Player_v1.4.apk/file",
+  "downloadUrl": "https://www.mediafire.com/file/3x1qmf9yagx2act/Prime+Player_v1.5.apk/file",
   "changelog": [
-    "Correção de bugs",
-    "Otimização para Android TV",
-    "Auto-reconexão no Player",
-    "Melhorias no Controle Parental (correção de bug visual)",
-    "Novo sistema de próximo episódio para séries",
-    "Melhorias no design"
+    "Várias correção de bugs",
+    "Otimização na performance para Android TV"
   ]
 }
