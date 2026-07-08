@@ -10,6 +10,16 @@
       "info": "Servidor para testes!"
     },
 
+      "012": {
+      "name": "Servidor Premium",
+      "premium": "true",
+      "type": "xtream",
+      "server": "http://iptvperfeito.ddns.net:25461",
+      "username": "498463555",
+      "password": "498463555",
+      "info": "Servidor para testes!"
+    },
+
     "011": {
     "name": "Servidor Premium",
     "premium": "true",
