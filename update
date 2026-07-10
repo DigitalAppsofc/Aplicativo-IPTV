@@ -1,9 +1,9 @@
 {
   "version": "1.5",
   "versionCode": 6,
-  "releaseDate": "2026-07-06",
+  "releaseDate": "2026-07-07",
   "forceUpdate": true,
-  "downloadUrl": "https://www.mediafire.com/file/3x1qmf9yagx2act/Prime+Player_v1.5.apk/file",
+  "downloadUrl": "https://rhmkalirdplfuxbrguag.supabase.co/storage/v1/object/public/app/Prime%20Player_v1.5.apk",
   "changelog": [
     "Várias correção de bugs",
     "Otimização na performance para Android TV"
