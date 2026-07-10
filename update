@@ -1,11 +1,13 @@
 {
-  "version": "1.5",
-  "versionCode": 6,
-  "releaseDate": "2026-07-07",
+  "version": "1.6",
+  "versionCode": 7,
+  "releaseDate": "2026-07-10",
   "forceUpdate": true,
-  "downloadUrl": "https://rhmkalirdplfuxbrguag.supabase.co/storage/v1/object/public/app/Prime%20Player_v1.5.apk",
+  "downloadUrl": "https://rhmkalirdplfuxbrguag.supabase.co/storage/v1/object/public/app/Prime_Player_v1.6.apk",
   "changelog": [
-    "Várias correção de bugs",
-    "Otimização na performance para Android TV"
+    "Correções de bugs e ajustes de estabilidade.",
+    "Sincronização Automática da Lista"
+    "Atualização Automática do Aplicativo: o aplicativo poderá verificar e instalar novas versões automaticamente, sem a necessidade de acessar links de download."
+    "Melhorias gerais de desempenho e otimizações para Android, Android TV e TV Box."
   ]
 }
