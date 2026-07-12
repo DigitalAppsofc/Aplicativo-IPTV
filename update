@@ -6,8 +6,8 @@
   "downloadUrl": "https://rhmkalirdplfuxbrguag.supabase.co/storage/v1/object/public/app/Prime_Player_v1.6.apk",
   "changelog": [
     "Correções de bugs e ajustes de estabilidade.",
-    "Sincronização Automática da Lista"
-    "Atualização Automática do Aplicativo: o aplicativo poderá verificar e instalar novas versões automaticamente, sem a necessidade de acessar links de download."
+    "Sincronização Automática da Lista",
+    "Atualização Automática do Aplicativo: o aplicativo poderá verificar e instalar novas versões automaticamente, sem a necessidade de acessar links de download.",
     "Melhorias gerais de desempenho e otimizações para Android, Android TV e TV Box."
   ]
 }
