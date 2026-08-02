@@ -1,9 +1,9 @@
 {
-  "version": "1.6",
+  "version": "1.7",
   "versionCode": 8,
   "releaseDate": "2026-08-02",
   "forceUpdate": true,
-  "downloadUrl": "https://rhmkalirdplfuxbrguag.supabase.co/storage/v1/object/public/app/Prime_Player_v1.6.apk",
+  "downloadUrl": "https://rhmkalirdplfuxbrguag.supabase.co/storage/v1/object/public/app/Prime%20Player%20v1.7.apk",
   "changelog": [
     "Correções de bugs e ajustes de estabilidade.",
     "Sincronização em nuvem.",
