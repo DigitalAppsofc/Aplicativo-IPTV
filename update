@@ -1,14 +1,10 @@
 {
-  "version": "1.7",
-  "versionCode": 8,
-  "releaseDate": "2026-08-02",
+  "version": "1.8",
+  "versionCode": 9,
+  "releaseDate": "2026-08-04",
   "forceUpdate": true,
-  "downloadUrl": "https://rhmkalirdplfuxbrguag.supabase.co/storage/v1/object/public/app/Prime%20Player%20v1.7.apk",
+  "downloadUrl": "https://rhmkalirdplfuxbrguag.supabase.co/storage/v1/object/public/app/Prime%20Player_v1.8.apk",
   "changelog": [
-    "Correções de bugs e ajustes de estabilidade.",
-    "Sincronização em nuvem.",
-    "Modo TV para celular.",
-    "Opção de Perfils.",
-    "Melhorias gerais de desempenho e otimizações para Android, Android TV e TV Box."
+    "Correções de bugs e ajustes de estabilidade."
   ]
 }
