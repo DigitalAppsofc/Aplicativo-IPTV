@@ -1,10 +1,12 @@
 {
-  "version": "1.8",
-  "versionCode": 9,
-  "releaseDate": "2026-08-04",
+  "version": "1.9",
+  "versionCode": 10,
+  "releaseDate": "2026-08-18",
   "forceUpdate": true,
-  "downloadUrl": "https://rhmkalirdplfuxbrguag.supabase.co/storage/v1/object/public/app/Prime%20Player_v1.8.apk",
+  "downloadUrl": "https://rhmkalirdplfuxbrguag.supabase.co/storage/v1/object/public/app/Prime%20Player_v1.9.apk",
   "changelog": [
-    "Correções de bugs e ajustes de estabilidade."
+    "Correções de bugs.",
+    "Melhorias no Layout",
+    "Melhorias no Player de vídeo"
   ]
 }
