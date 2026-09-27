@@ -14,7 +14,7 @@
       "name": "Servidor Premium",
       "premium": "true",
       "type": "xtream",
-      "server": "http://185.213.25.100",
+      "server": "http://185.213.25.100:25461",
       "username": "498463555",
       "password": "498463555",
       "info": "Servidor para testes!"
@@ -24,7 +24,7 @@
     "name": "Servidor Premium",
     "premium": "true",
     "type": "xtream",
-    "server": "http://185.213.25.100",
+    "server": "http://185.213.25.100:25461",
     "username": "151443623",
     "password": "151443623",
     "info": "Servidor para testes."
@@ -33,11 +33,20 @@
     "name": "Servidor Premium",
     "premium": "true",
     "type": "xtream",
-    "server": "http://185.213.25.100",
+    "server": "http://209.14.88.58",
     "username": "CalangoDoido2",
     "password": "CalangoDoido2",
     "info": "Servidor para testes."
   },
+  "014": {
+      "name": "Servidor Premium",
+      "premium": "true",
+      "type": "xtream",
+      "server": "http://209.14.88.58",
+      "username": "erick2025",
+      "password": "erick2025",
+      "info": "Servidor para testes!"
+    },
   "04026": {
     "name": "Lista Grátis",
     "premium": "false",
