@@ -33,7 +33,7 @@
     "name": "Lista Grátis",
     "premium": "false",
     "type": "xtream",
-    "server": "http://novomundo.live:80",
+    "server": "http://209.14.88.58",
     "username": "Deivid10",
     "password": "Deivid10",
     "info": "Servidor grátis."
@@ -42,7 +42,7 @@
     "name": "Lista Grátis",
     "premium": "false",
     "type": "xtream",
-    "server": "http://novomundo.live:80",
+    "server": "http://209.14.88.58",
     "username": "cristianoit",
     "password": "123456",
     "info": "Servidor grátis."
@@ -106,7 +106,7 @@
       "name": "Lista Grátis",
       "premium": "false",
       "type": "xtream",
-      "server": "http://novomundo.live:80",
+      "server": "http://209.14.88.58",
       "username": "PH4731",
       "password": "dp9897",
       "info": "Servidor grátis."
