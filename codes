@@ -14,7 +14,7 @@
       "name": "Servidor Premium",
       "premium": "true",
       "type": "xtream",
-      "server": "http://iptvperfeito.ddns.net:25461",
+      "server": "http://185.213.25.100",
       "username": "498463555",
       "password": "498463555",
       "info": "Servidor para testes!"
@@ -24,7 +24,7 @@
     "name": "Servidor Premium",
     "premium": "true",
     "type": "xtream",
-    "server": "http://iptvperfeito.ddns.net:25461",
+    "server": "http://185.213.25.100",
     "username": "151443623",
     "password": "151443623",
     "info": "Servidor para testes."
