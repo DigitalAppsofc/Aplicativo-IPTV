@@ -1,12 +1,14 @@
 {
-  "version": "1.9",
-  "versionCode": 10,
-  "releaseDate": "2026-08-18",
+  "version": "2.0",
+  "versionCode": 11,
+  "releaseDate": "2026-09-27",
   "forceUpdate": true,
-  "downloadUrl": "https://rhmkalirdplfuxbrguag.supabase.co/storage/v1/object/public/app/Prime%20Player_v1.9.apk",
+  "downloadUrl": "https://rhmkalirdplfuxbrguag.supabase.co/storage/v1/object/public/app/Prime%20Player_v2.0.apk",
   "changelog": [
     "Correções de bugs.",
     "Melhorias no Layout",
-    "Melhorias no Player de vídeo"
+    "Carregamento mais rapido da playlist",
+    "Otimizações no aplicativo",
+    "Melhorias no suporte para Android TV"
   ]
 }
