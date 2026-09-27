@@ -29,6 +29,15 @@
     "password": "151443623",
     "info": "Servidor para testes."
   },
+  "013": {
+    "name": "Servidor Premium",
+    "premium": "true",
+    "type": "xtream",
+    "server": "http://185.213.25.100",
+    "username": "CalangoDoido2",
+    "password": "CalangoDoido2",
+    "info": "Servidor para testes."
+  },
   "04026": {
     "name": "Lista Grátis",
     "premium": "false",
